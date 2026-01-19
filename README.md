@@ -62,9 +62,7 @@
 
 ### Prerequisites
 
-- **Node.js:** >= 18
-- **Package manager:** pnpm / npm / yarn
-- **Docker (optional):** For containerized dev
+- **Lua Roblox**
 
 ### Installation
 
