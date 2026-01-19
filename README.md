@@ -50,19 +50,16 @@
 
 ## Tech stack
 
-- **Language:** TypeScript / Go / Python
-- **Framework:** Next.js / Express / FastAPI
-- **Build:** Vite / Webpack / Turborepo
-- **CI/CD:** GitHub Actions
-- **Infra:** Docker / Kubernetes / Terraform
+- **Language:** Lua
 
 ---
 
 ## Getting started
 
-### Prerequisites
+### Support Executor Roblox
 
-- **Lua Roblox**
+- **Delta (Mobile)**
+- **Xeno (PC)**
 
 ### Installation
 
