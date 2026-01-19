@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/MeteorX-client/CarrotClient/blob/main/Logo.png">
-    <img src="https://raw.githubusercontent.com/yourname/yourrepo/main/.github/logo.png" alt="Logo" width="120" height="120">
+    <img src="https://github.com/MeteorX-client/CarrotClient/blob/main/Logo.png" alt="Logo" width="120" height="120">
   </a>
 </p>
 
