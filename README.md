@@ -68,10 +68,8 @@
 
 ### Installation
 
-```bash
-# Clone the repo
-git clone https://github.com/yourname/yourrepo.git
-cd yourrepo
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MeteorX-client/CarrotClient/refs/heads/main/PrisonLifeCarrot.lua"))()
 
 # Install dependencies
 pnpm install
