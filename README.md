@@ -38,19 +38,9 @@
 
 ---
 
-## Features
+## Maps
 
-- **Fast:** Blazing performance with minimal overhead.
-- **Modular:** Plug-and-play architecture for easy extension.
-- **Typed:** Full TypeScript support (or your language of choice).
-- **DX-first:** Great developer experience with clear errors and docs.
-- **Secure:** Sensible defaults and best practices baked in.
-
----
-
-## Tech stack
-
-- **Language:** Lua
+- **Prison Life:** Version 0.7-V2
 
 ---
 
