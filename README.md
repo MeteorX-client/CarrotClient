@@ -17,6 +17,12 @@
 
 ---
 
+## Owner Client
+
+- **Discord @li1_carr0t** solo project ;-;
+
+---
+
 ## Projects
 
 - **Prison Life:** Version 0.7-V2
