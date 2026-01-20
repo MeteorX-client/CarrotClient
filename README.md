@@ -56,7 +56,8 @@
 - **Delta (Mobile)**
 - **Xeno (PC)**
 
-### Installation
+### Get Script
 
+- [PrisonLife Xeno](https://xenoscripts.com/script/prison-life-script-carrot-client-0-6-v2)
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MeteorX-client/CarrotClient/refs/heads/main/PrisonLifeCarrot.lua"))()
