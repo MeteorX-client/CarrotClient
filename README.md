@@ -28,17 +28,7 @@
 
 ---
 
-## Overview
-
-**Why:** A concise explanation of the problem your project solves.  
-**What:** Key features and the core idea.  
-**For whom:** Target users or use cases.
-
-> Tip: Keep this section crisp—one short paragraph and a bullet list of highlights.
-
----
-
-## Maps
+## Projects
 
 - **Prison Life:** Version 0.7-V2
 
