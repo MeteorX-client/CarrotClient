@@ -12,7 +12,7 @@
   <a href="https://yourproject.example.com"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="https://discord.gg/4ePkk9JfHR">Discord</a>
+  <a href="https://discord.gg/4ePkk9JfHR">Join Discord Today!</a>
 </p>
 
 <p align="center">
