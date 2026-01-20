@@ -15,13 +15,6 @@
   <a href="https://discord.gg/4ePkk9JfHR">Join Discord Today!</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/yourname/yourrepo/ci.yml?label=CI&style=for-the-badge" />
-  <img src="https://img.shields.io/github/v/release/yourname/yourrepo?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/license-MIT-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" />
-</p>
-
 ---
 
 ## Projects
