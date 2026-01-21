@@ -19,7 +19,7 @@
 
 ## Owner Client
 
-- **Discord @li1_carr0t** solo project ;-;
+- **Discord @li1_carr0t**
 - [**Join Discord**](https://discord.gg/4ePkk9JfHR)
 
 ---
