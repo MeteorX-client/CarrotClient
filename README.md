@@ -7,9 +7,10 @@
 <h1 align="center">🚀 Carrot Client 🥕</h1>
 </p>
 
-## Owner Client
+## Credit
 
-- **Discord @li1_carr0t & @el_e95**
+- **Owner Script @li1_carr0t**
+- **Developer/Scripter @el_e95**
 - [**Join Discord**](https://discord.gg/4ePkk9JfHR)
 
 ---
