@@ -13,16 +13,13 @@
 - **Developer/Scripter @el_e95**
 - [**Join Discord**](https://discord.gg/4ePkk9JfHR)
 
+- - [Footagesus](https://github.com/Footagesus/WindUI) (Wind UI)
+
 ---
 
 ## Projects
 
 - **Prison Life** 0.7.9Beta5-V2
-
----
-
-## Credit UI 
-- [Footagesus](https://github.com/Footagesus/WindUI) (Wind UI)
 
 ---
 
