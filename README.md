@@ -13,7 +13,7 @@
 - **Developer/Scripter @el_e95**
 - [**Join Discord**](https://discord.gg/4ePkk9JfHR)
 
-- [Footagesus](https://github.com/Footagesus/WindUI) (Wind UI)
+- [**Footagesus**](https://github.com/Footagesus/WindUI) (Wind UI)
 
 ---
 
